@@ -11,7 +11,7 @@ public class Product {
 	public Product() {
 	}
 
-	
+	// Maa ka bharosa or dentist k sujhaya no1 brand Colgate
 	public Product(int id, String name, String category, Double price, String image) {
 		super();
 		this.id = id;
